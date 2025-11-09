@@ -86,7 +86,7 @@ system-monitor-tool/
 ---
 
 ## 🧾 Author
-- Name: Chinmaya Chidamber Sahoo
+- Name: Biswajit Sahoo
 - Platform: Windows (WSL Ubuntu)
 - Language: C++
 
